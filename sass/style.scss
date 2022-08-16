@@ -1,0 +1,18 @@
+//FONTES 
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;514&display=swap");
+
+//ICONES BOOTSTRAP
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+//COMUM PARA TODAS AS PÁGINAS
+@import "./communElements/variables.scss";
+@import "./communElements/communElements.scss";
+
+//STYLE DA PÁGINA HOME
+@import "./pages/home.scss";
+
+//STYLE DA PÁGINA FALCON9
+@import "./pages/falcon9.scss";
+
+//STYLE DA PÁGINA HUMAN_SPACE
+@import "./pages/humanSpace.scss";
